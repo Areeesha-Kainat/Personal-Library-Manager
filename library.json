@@ -1,0 +1,16 @@
+[
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "year": "1988",
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": "1925",
+        "genre": "Fiction",
+        "read": true
+    }
+]
